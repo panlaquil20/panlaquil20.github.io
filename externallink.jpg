@@ -1,0 +1,19 @@
+<style>body {
+background-color:rgb(201, 185, 161);
+
+}
+           
+.wa{
+background-color:red;
+
+}
+           
+.sh{
+
+backgroud-color:grey;
+}
+           
+.cl{
+background-color:white;
+}
+        </style>
