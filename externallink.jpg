@@ -1,4 +1,3 @@
-<style>
 body{
 background-color:rgb(201, 185, 161);
 }           
@@ -11,4 +10,3 @@ backgroud-color:grey;
 .cl{
 background-color:white;
 }
-        </style>
